@@ -1,0 +1,7 @@
+base   embedover
+author Remi Peyronnet
+email  remi+embedover@via.ecp.fr
+date   2016-02-07
+name   embedover Plugin
+desc   Embed an external page over a dokuwiki page
+url    https://www.dokuwiki.org/plugin:embedover

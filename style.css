@@ -1,0 +1,10 @@
+.embedover { color: #4d5b90;  }
+
+#embedover_div 
+{
+	float: right;
+	width:700px;
+	display: none;
+	position: absolute;
+	background-color: white;
+}
